@@ -67,8 +67,6 @@ Las aleaciones permiten obtener materiales más resistentes, más duros, o más 
 
 **Versión en inglés**
 
-
-**2. Alloys**
 An **alloy** is the mixture of two or more elements, where at least one is metallic, to improve the properties.
 
 Examples:
