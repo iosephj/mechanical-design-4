@@ -16,36 +16,29 @@ version: "06/06/26"
 
 ### Trabajos prácticos
 
-##### TP 1: Tuerca de aluminio
+**TP 1: Tuerca de aluminio**
+<br>&emsp;- [Croquis y procedimiento](tp1/01-croquis.html)
 
-- [Croquis y procedimiento](tp1/01-croquis.html)
+**TP 2: Tuerca especial de acero**
+<br>&emsp;- [Croquis y procedimiento](tp2/01-croquis.html)
 
-##### TP 2: Tuerca especial de acero
+**TP 3: Torneado 16x16**
+<br>&emsp;- [Procedimiento](tp3/01-procedimiento.html)
+<br>&emsp;- [Nombres relacionados con el torno](tp3/02-nombres.html)
 
-- [Croquis y procedimiento](tp2/01-croquis.html)
-
-##### TP 3: Torneado 16x16
-
-- [Procedimiento](tp3/01-procedimiento.html)
-
-
-##### TP 4: Torneado de varilla roscada
-
-- [Plano](tp4/varrilla-roscada-2026.pdf)
+**TP 4: Torneado de varilla roscada**
+<br>&emsp;- [Plano](tp4/varrilla-roscada-2026.pdf)
 
 ### Complementos
 
-##### Dibujo Mecánico
+**Dibujo Mecánico**
+<br>&emsp;- [Práctica 1](mechanical-drawing/01-dibujo.html)
+<br>&emsp;- [Práctica 2](mechanical-drawing/02-dibujo.html)
+<br>&emsp;- [Práctica 3](mechanical-drawing/03-dibujo.html)
 
-- [Práctica 1](mechanical-drawing/01-dibujo.html)
-- [Práctica 2](mechanical-drawing/02-dibujo.html)
-- [Práctica 3](mechanical-drawing/03-dibujo.html)
-
-##### Metrología
-
-- [Introducción](metrology/01-metrology.html)
-- [Errores e instrumentos](metrology/02-metrology.html)
-
+**Metrología**
+<br>&emsp;- [Introducción](metrology/01-metrology.html)
+<br>&emsp;- [Errores e instrumentos](metrology/02-metrology.html)
 
 
 <br>
