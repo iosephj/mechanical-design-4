@@ -39,6 +39,7 @@ version: "06/06/26"
 **Metrología**
 <br>&emsp;- [Introducción](metrology/01-metrology.html)
 <br>&emsp;- [Errores e instrumentos](metrology/02-metrology.html)
+<br>&emsp;- [El micrómetro](metrology/03-metrology.html)
 
 
 <br>
