@@ -5,7 +5,7 @@ version: "06/06/26"
 ---
 
 <!-- Image -->
-![](cover/2026.png){width=600px}<br>
+![](../images/cover/2026.png){width=600px}<br>
 
 <div class="grey3">
 **Año:** 2026
@@ -28,6 +28,13 @@ version: "06/06/26"
 
 **TP 4: Torneado de varilla roscada**
 <br>&emsp;- [Plano](tp4/varrilla-roscada-2026.pdf)
+
+**TP 5: Eje escalonado**
+<br>&emsp;- [Plano](tp5/tp_eje_escalonado.pdf)
+<br>&emsp;- [Proceso de construcción](tp5/tp_eje_escalonado_proceso.pdf)
+<br>&emsp;- [Herramienta para el torno](tp5/herramienta-torno.html)
+
+
 
 ### Complementos
 
