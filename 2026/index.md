@@ -33,7 +33,7 @@ version: "06/06/26"
 <br>&emsp;- [Plano](tp5/tp_eje_escalonado.pdf)
 <br>&emsp;- [Proceso de construcción](tp5/tp_eje_escalonado_proceso.pdf)
 <br>&emsp;- [Herramienta para el torno](tp5/herramienta-torno.html)
-
+<br>&emsp;- [Tipos de sujección](tp5/sujeccion-pieza.html)
 
 
 ### Complementos
